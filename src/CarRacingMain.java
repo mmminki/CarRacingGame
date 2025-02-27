@@ -8,7 +8,7 @@ public class CarRacingMain {
         Scanner scanner = new Scanner(System.in);
 
         ArrayList<Car> entry;
-
+        //
         printer.printInitUi();
         String inputCarList = scanner.nextLine();
     }
